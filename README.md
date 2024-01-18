@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#
+
+<h2 align="center">
+<img width="50%" src="https://count.getloli.com/get/@:sh8ee?theme=rule34">
+<br> </br>
+<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/sh8ee?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
+</h2>
