@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #
 
 <h2 align="center">
-<img width="50%" src="https://count.getloli.com/get/@:sh8ee?theme=rule34">
+<img width="50%" src="https://count.getloli.com/get/@:ogshree?theme=rule34">
 <br> </br>
-<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/sh8ee?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
+<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/ogshree?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
 </h2>
