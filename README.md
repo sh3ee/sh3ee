@@ -22,3 +22,16 @@ Here are some ideas to get you started:
 <br> </br>
 <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/ogshree?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
 </h2>
+
+
+
+### Connect with me:
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/5n2n6Vh2Pb)
+
+### Languages and tools:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongo,vscode)](https://github.com/ogshree/ogshree)
+
+<details>
+    <summary>📊 Statistics:</summary>
+        <img align="left" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogshree&langs_count=8&layout=compact"/>
+</details>
