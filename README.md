@@ -1,22 +1,3 @@
-### Hi there 👋
-
-<!--
-**sh8ee/sh8ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-#
-
 <h2 align="center">
 <img width="50%" src="https://count.getloli.com/get/@:ogshree?theme=rule34">
 <br> </br>
@@ -24,14 +5,19 @@ Here are some ideas to get you started:
 </h2>
 
 
+### Languages and tools:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongo,vscode)](https://github.com/ogshree/ogshree)
+
+
+# 
+
+<p align="left"> 
+<a href="https://www.youtube.com/@sh3ee" target="blank"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCRTljDU5eoJ_RBtgqVVAVSg?logo=youtube&style=for-the-badge&color=red"></a>
+<a href="https://discord.gg/5n2n6Vh2Pb" target="blank"><img alt="Discord" src="https://img.shields.io/discord/1105476631440662598?logo=discord&style=for-the-badge&color=%2312924F"></a> 
+</p>
+
 
 ### Connect with me:
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/5n2n6Vh2Pb)
 
-### Languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongo,vscode)](https://github.com/ogshree/ogshree)
-
-<details>
-    <summary>📊 Statistics:</summary>
-        <img align="left" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogshree&langs_count=8&layout=compact"/>
-</details>
+#
