@@ -29,8 +29,8 @@ Right now I make lot of things mainly with JavaScript & I love to do random stuf
 
 #
 
-### Languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongo,vscode)](https://github.com/ogshree/ogshree)
+### Languages, database & tools:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongo,sequelize,vscode)](https://github.com/ogshree/ogshree)
 
 #
 
