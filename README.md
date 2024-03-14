@@ -1,5 +1,5 @@
 <h2 align="center">
-<img width="50%" src="https://count.getloli.com/get/@:ogshree?theme=rule34">
+<img width="100%" src="https://media.discordapp.net/attachments/1209092557988954132/1217782842684084275/Untitled1.png?ex=660547a7&is=65f2d2a7&hm=0c51b09c4c431876ec55b80c80edda028a6d61549b54e39df309bb9e75f279ba&=&format=webp&quality=lossless&width=1920&height=627">
 <br> </br>
 <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/ogshree?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
 </h2>
