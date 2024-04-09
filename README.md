@@ -8,7 +8,6 @@
 
 ### Hello there 🙋‍♂️
 Welcome to my profile, I am Shree a Node JS developer.
-
 I like to make different things which can be helpful to others and automate or simply tasks, and I also like to chill 🥶 with friends.
 
 #
