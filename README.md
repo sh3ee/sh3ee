@@ -1,7 +1,7 @@
 <h2 align="center">
 <!-- <img width="100%" src=""> -->
 <br> </br>
-<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/ogshree?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
+<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/sh3ee?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
 </h2>
 
 #
@@ -15,19 +15,19 @@ I like to make different things which can be helpful to others and automate or s
 ### Projects 🤓
 
 
-🎉 If you're new to this, don't worry! We've got the perfect tool for you [`discord-handler`](https://github.com/ogshree/discord-handler). It's a startup file designed to help beginners like you get started with ease. ?
+🎉 If you're new to this, don't worry! We've got the perfect tool for you [`discord-handler`](https://github.com/sh3ee/discord-handler). It's a startup file designed to help beginners like you get started with ease. ?
 
 **Note:**
 `1` *Set up your bot quickly 🚀*
 `2` *Learn the basics of bot development 📚*
 `3` *Customize your bot as you learn more 🛠️*
 
-So why wait? Download [`discord-handler`](https://github.com/ogshree/discord-handler) now and start creating your unique Discord bot today! Trust us, it's going to be a fun ride! 🎢
+So why wait? Download [`discord-handler`](https://github.com/sh3ee/discord-handler) now and start creating your unique Discord bot today! Trust us, it's going to be a fun ride! 🎢
 
 #
 
 ### Languages, database & tools:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongo,sequelize,vscode)](https://github.com/ogshree/ogshree)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongo,sequelize,vscode)](https://github.com/sh3ee/sh3ee)
 
 #
 
