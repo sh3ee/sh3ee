@@ -21,7 +21,6 @@ I like to make different things which can be helpful to others and automate or s
 `1` *Set up your bot quickly 🚀*
 `2` *Learn the basics of bot development 📚*
 `3` *Customize your bot as you learn more 🛠️*
-
 So why wait? Download [`discord-handler`](https://github.com/sh3ee/discord-handler) now and start creating your unique Discord bot today! Trust us, it's going to be a fun ride! 🎢
 
 #
@@ -30,10 +29,5 @@ So why wait? Download [`discord-handler`](https://github.com/sh3ee/discord-handl
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongo,sequelize,vscode)](https://github.com/sh3ee/sh3ee)
 
 #
-
-<p align="left"> 
-<a href="https://www.youtube.com/@sh3ee" target="blank"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCRTljDU5eoJ_RBtgqVVAVSg?logo=youtube&style=for-the-badge&color=red"></a>
-<a href="https://discord.gg/5n2n6Vh2Pb" target="blank"><img alt="Discord" src="https://img.shields.io/discord/1105476631440662598?logo=discord&style=for-the-badge&color=%2312924F"></a> 
-</p>
 
 Thank You for reading ♥
