@@ -26,7 +26,7 @@ So why wait? Download [`discord-handler`](https://github.com/sh3ee/discord-handl
 #
 
 ### Languages, database & tools:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongo,sequelize,vscode)](https://github.com/sh3ee/sh3ee)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongo,vscode)](https://github.com/sh3ee/sh3ee)
 
 #
 
